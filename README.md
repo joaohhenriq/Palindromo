@@ -6,4 +6,6 @@
 
 ## Executando teste da aplicação
 
+Acessa a pasta em que o projeto está localizado, pelo cmd, e em seguida digite: 
+
 `mvn teste`
